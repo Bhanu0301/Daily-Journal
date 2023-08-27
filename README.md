@@ -20,6 +20,10 @@ This project is a template for a simple personal diary/blog website. The project
 # post
 ![Screenshot (227)](https://github.com/Bhanu0301/Daily-Journal/assets/106879319/56cad060-6b70-46dd-a2ae-23145ac4884f)
 
+#Terminal and Database
+
+![Screenshot (236)](https://github.com/Bhanu0301/Daily-Journal/assets/106879319/7013eae3-0c56-44eb-b727-7706f972c51e)
+![Screenshot (237)](https://github.com/Bhanu0301/Daily-Journal/assets/106879319/dafcf318-9de2-41ef-a858-4729faeda3e4)
 
 # Acknowledgements
 
